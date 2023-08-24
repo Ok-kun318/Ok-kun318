@@ -1,6 +1,6 @@
 Ok-kun318です
 
-<font color="#f9a83a">Scratchで</font>はexiq100です
+Scratchではexiq100です
 
 Scratch垢https://scratch.mit.edu/users/exiq100/
 <p align="left"> 
