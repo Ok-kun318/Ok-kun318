@@ -1,5 +1,5 @@
-#_Ok-kun318_です
+#Ok-kun318です
 
-#Scratchでは_exiq100_です
+#Scratchではexiq100です
 
-##_https://scratch.mit.edu/users/exiq100/_
+##[Scratch垢](https://scratch.mit.edu/users/exiq100）
