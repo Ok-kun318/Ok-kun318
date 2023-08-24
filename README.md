@@ -1,6 +1,6 @@
 Ok-kun318です
 
-`rgb(252, 186, 3)`Scratchではexiq100です
+`#fcba03` Scratchではexiq100です
 
 Scratch垢https://scratch.mit.edu/users/exiq100/
 <p align="left"> 
