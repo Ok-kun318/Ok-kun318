@@ -2,4 +2,4 @@
 
 #Scratchではexiq100です
 
-##[Scratch垢](https://scratch.mit.edu/users/exiq100）
+[Scratch垢](https://scratch.mit.edu/users/exiq100/）
