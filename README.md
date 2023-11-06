@@ -15,6 +15,7 @@ Scratch垢https://scratch.mit.edu/users/exiq100/
 @media (prefers-color-scheme: light) {
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ok-kun318&theme=transparent)
   }
+  
 @media (prefers-color-scheme: dark) {
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ok-kun318&theme=city_lights)
 }
