@@ -1,3 +1,5 @@
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake.svg) 
+
 Ok-kun318です
 
 Scratch垢https://scratch.mit.edu/users/exiq100/
