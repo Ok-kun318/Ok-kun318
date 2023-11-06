@@ -1,4 +1,9 @@
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake.svg) 
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake.svg">
+</picture>
 
 Ok-kun318です
 
