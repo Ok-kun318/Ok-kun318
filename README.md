@@ -12,8 +12,12 @@ Scratch垢https://scratch.mit.edu/users/exiq100/
 <p align="top"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true&theme=blue_navy" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ok-kun318&theme=blue_navy&show_icons=ture" />
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ok-kun318&theme=city_lights)
+@media (prefers-color-scheme: light) {
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ok-kun318&theme=transparent)
+  }
+@media (prefers-color-scheme: dark) {
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ok-kun318&theme=city_lights)
+}
 </p>
 
 <!--
