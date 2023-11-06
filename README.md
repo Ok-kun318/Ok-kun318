@@ -12,11 +12,9 @@ Scratch垢https://scratch.mit.edu/users/exiq100/
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    <p align="top"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true&theme=blue_navy" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ok-kun318&theme=blue_navy&show_icons=ture" />
   <source media="(prefers-color-scheme: light)" 
-    <p align="top"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ok-kun318&show_icons=ture" />
 </picture>
