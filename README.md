@@ -1,7 +1,5 @@
 Ok-kun318です
 
-Scratchではexiq100という名前で活動しています。
-
 Scratch垢https://scratch.mit.edu/users/exiq100/
 
 <p align="top"> 
