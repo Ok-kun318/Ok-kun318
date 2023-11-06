@@ -2,8 +2,6 @@ Ok-kun318です
 
 Scratchではexiq100という名前で活動しています。
 
-小6です
-
 Scratch垢https://scratch.mit.edu/users/exiq100/
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&layout=compact&show_icons=true&theme=shadow_blue" />
