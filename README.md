@@ -9,10 +9,10 @@ Ok-kun318です
 
 Scratch垢https://scratch.mit.edu/users/exiq100/
 
-<img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true&theme=blue_navy#gh-dark-mode-only" />
-<img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ok-kun318&theme=blue_navy&show_icons=ture#gh-dark-mode-only" />
-<img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true#gh-light-mode-only#gh-light-mode-only" />
-<img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Ok-kun318&show_icons=ture#gh-light-mode-only" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true&theme=blue_navy#gh-dark-mode-only" alt="Top Langs">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Ok-kun318&theme=blue_navy&show_icons=ture#gh-dark-mode-only" alt="github stats">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true#gh-light-mode-only#gh-light-mode-only" alt="Top Langs">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Ok-kun318&show_icons=ture#gh-light-mode-only" alt="githubstats">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ok-kun318&theme=transparent)
 
