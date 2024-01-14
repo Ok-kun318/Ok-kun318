@@ -9,9 +9,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake.svg">
 </picture>
-
-Ok-kun318です
-
+↓Scratch Account↓
+  
 Scratch垢https://scratch.mit.edu/users/exiq100/
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ok-kun318&show_icons=true&theme=blue_navy" alt="Top Langs">
