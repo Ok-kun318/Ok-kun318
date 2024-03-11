@@ -4,7 +4,7 @@
 
 ### こんにちは 私はOk-kun318です
 
-###そこら辺にいる小6
+####そこら辺にいる小6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ok-kun318/Ok-kun318/master/img/snake-dark.svg">
